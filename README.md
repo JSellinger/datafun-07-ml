@@ -1,5 +1,7 @@
 # datafun-07-ml
 
+This project is a basic introduction to machine learning starting with the simplest possible regression - linear regression.
+
 ## Create and Manage your Project Virtual Environment
 
 This project uses external packages, which are not included in the Python Standard Library - we must install them. 
