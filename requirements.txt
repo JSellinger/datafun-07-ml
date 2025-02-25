@@ -7,4 +7,5 @@ seaborn
 plotly
 scipy
 loguru
-random
+scipy
+scikit-learn
